@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="import" href="./script.js">
+    <link rel="import" href="./sound.js"> 
+    <script src="https://code.createjs.com/1.0.0/preloadjs.min.js"></script>
+    <script src="https://code.createjs.com/1.0.0/soundjs.min.js"></script>
+
+
+ 
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4636070800947043"
+     crossorigin="anonymous"></script>
+
+     <script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
+     
+     
+   
+    <title>Jogo da Velha</title>
+</head>
+
+<body>
+        
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4636070800947043"
+        crossorigin="anonymous">
+        </script>
+
+        <!-- #Ads1=320X90 -->
+        <ins class="adsbygoogle"
+        style="display:inline-block;width:320px;height:90px"
+        data-ad-client="ca-pub-4636070800947043"
+        data-ad-slot="3058499256">
+        </ins>
+
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+ 
+    
+    <h1>Jogo da Velha</h1>
+
+    <h2 data-menssagemTurn>Vez do jogador ...</h2>
+        
+    
+        <audio id="audioHover">
+            <source src="./sound/sf/001_Hover_01.wav" type="audio/mpeg">
+        </audio>
+
+        <audio id="audioClick">
+            <source src="./sound/sf/bolinha.wav" type="audio/mpeg" data-soundClick>
+        </audio>
+
+        
+        <audio id="audioVitoria"  >
+            <source src="./sound/sf/vitoria.wav" type="audio/mpeg" data-audioVitoria>
+        </audio>
+
+    <div class="board player1" data-board  >
+       
+        <div  class="cell" data-cell onmouseover="mouseHover()" onclick="audioClick()"></div>
+        <div  class="cell" data-cell onmouseover="mouseHover()" onclick="audioClick()"></div>
+        <div  class="cell" data-cell onmouseover="mouseHover()" onclick="audioClick()"></div>
+        <div  class="cell" data-cell onmouseover="mouseHover()" onclick="audioClick()"></div>
+        <div  class="cell" data-cell onmouseover="mouseHover()" onclick="audioClick()"></div>
+        <div  class="cell" data-cell onmouseover="mouseHover()" onclick="audioClick()" ></div>
+        <div  class="cell" data-cell onmouseover="mouseHover()" onclick="audioClick()"></div>
+        <div  class="cell" data-cell onmouseover="mouseHover()" onclick="audioClick()"></div>
+        <div  class="cell" data-cell onmouseover="mouseHover()" onclick="audioClick()"></div>
+    </div>
+    
+    <div class="winning-message" data-menssagem onclick="audioClickAgain()">
+      
+        <audio id="audioClickAgain">
+            <source src="./sound/sf/051_use_item_01.wav" type="audio/mpeg">
+        </audio>
+        <p data-winning-message-text>Azul Venceu!</p>        
+        <button  class="winning-message-button" data-restart-button > Jogar de novo!</button>
+       
+    </div>
+    
+    <script src="./script.js"></script>
+
+   
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4636070800947043"
+            crossorigin="anonymous">
+        </script>
+        <!-- #ads2 -->
+        <ins class="adsbygoogle"
+        style="display:inline-block;width:320px;height:90px"
+        data-ad-client="ca-pub-4636070800947043"
+        data-ad-slot="4178889677"
+        data-ad-format="auto"
+        data-full-width-responsive="true">
+        </ins>
+        
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+        <script src="./sound.js">
+            </script>
+
+<audio id="audioVitoria">
+    <source src="./sound/sf/vitoria.wav" type="audio/mpeg">
+</audio>
+        <script>
+         
+        </script>
+     
+</body>
+
+    <amp-auto-ads type="adsense"
+        data-ad-client="ca-pub-4636070800947043">
+    </amp-auto-ads>
+
+
+<footer>
+     <a href="./gdpr.html"> Política de Privaccidade</a> - <a href="./termos.html">Termos de Uso</a> -  <a href="mailto:feliperosademendonca@gmail.com">Contato</a> 
+   <p> © 2022 FelipeRosa, Todos Direitos Reservados.</p>
+</footer>
+</html>

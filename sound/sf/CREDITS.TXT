@@ -1,0 +1,277 @@
+###############################################
+OpenGameArt.org automatically generated credits file notice:
+
+THIS FILE IS FOR INFORMATIONAL PURPOSES ONLY.  NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL OPENGAMEART.ORG BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OF THIS FILE OR THE INFORMATION IN IT.
+
+In plain English:  This credits file is automatically generated to the best of our ability, but it remains YOUR RESPONSIBILITY as a game developer to ensure that the art you use is attributed properly.  That is, we can't be held liable even if all of the information in this file is completely wrong.   In addition, some of the art listed in this file may have SPECIAL ATTRIBUTION INSTRUCTIONS that ask that you credit the artist in a particular way, rather than a verbatim copyright notice.  In those cases, you will probably need to hand-edit this file to comply with their instructions.  In some older art, attribution instructions may be included in the art description itself.  Please check the art page to be sure.
+
+We recommend that you delete this notice when you're sure the information here is correct and the attribution instructions are properly followed.  If you aren't the game developer and you're seeing this notice here in the credits, it probably means that the developer hasn't properly verified the attribution information contained herein even though it said they were supposed to do it right on the page where they downloaded this file.  
+###############################################
+
+Title:
+    Long Sci-fi Sting
+
+Author:
+    Fupi
+
+URL:
+    https://opengameart.org/content/long-sci-fi-sting
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * longscifisting.ogg
+    * longscifisting.wav
+
+----------------------------------------
+
+Title:
+    Flux Capacitor (No Marty)
+
+Author:
+    Frenchyboy
+
+URL:
+    https://opengameart.org/content/flux-capacitor-no-marty
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * fluxcapacitornomarty.wav
+
+----------------------------------------
+
+Title:
+    Synthesized Fire Sound Effect
+
+Author:
+    Spring Spring
+
+URL:
+    https://opengameart.org/content/synthesized-fire-sound-effect
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    Spring
+
+File(s):
+    * fire_sound_effect.mp3
+
+----------------------------------------
+
+Title:
+    Spring came to the town
+
+Author:
+    sertaciswatching
+
+URL:
+    https://opengameart.org/content/spring-came-to-the-town
+
+License(s):
+    * CC-BY 4.0 ( https://creativecommons.org/licenses/by/4.0/legalcode )
+    * CC-BY-SA 4.0 (  )
+
+File(s):
+    * spring_came_to_the_town.mp3
+
+----------------------------------------
+
+Title:
+    "Fish Out of Water Story"
+
+Author:
+    Spring Spring
+
+URL:
+    https://opengameart.org/content/fish-out-of-water-story
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    Spring
+
+File(s):
+    * fish_out_of_water_story.mp3
+
+----------------------------------------
+
+Title:
+    Illusion
+
+Author:
+    KLY
+
+URL:
+    https://opengameart.org/content/illusion
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Credits: Kim Lightyear
+
+File(s):
+    * kim_lightyear_-_illusion.mp3
+    * kim_lightyear_-_illusion.wav
+
+----------------------------------------
+
+Title:
+    Distorted Memory
+
+Author:
+    soled
+
+URL:
+    https://opengameart.org/content/distorted-memory
+
+License(s):
+    * CC-BY 4.0 ( https://creativecommons.org/licenses/by/4.0/legalcode )
+
+File(s):
+    * soled - distorted memory.wav
+
+----------------------------------------
+
+Title:
+    Electronic Intense Breakbeats
+
+Author:
+    ISAo
+
+URL:
+    https://opengameart.org/content/electronic-intense-breakbeats
+
+License(s):
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+Copyright/Attribution Notice:
+    SOUND AIRYLUVS by ISAo https://airyluvs.com/
+
+
+File(s):
+    * wbto_invisible_jp_master.mp3
+
+----------------------------------------
+
+Title:
+    Winter Wind
+
+Author:
+    wipics
+
+URL:
+    https://opengameart.org/content/winter-wind
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+Copyright/Attribution Notice:
+    Public Domain
+
+File(s):
+    * winter-wind.mp3
+    * winter-wind-short.mp3
+
+----------------------------------------
+
+Title:
+    Ambient Horror Track 01
+
+Author:
+    CleytonKauffman
+
+URL:
+    https://opengameart.org/content/ambient-horror-track-01
+
+License(s):
+    * CC-BY-SA 4.0 (  )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+Copyright/Attribution Notice:
+    Music by Cleyton Kauffman - https://soundcloud.com/cleytonkauffman
+
+File(s):
+    * ambient_horror_track_01.zip
+
+----------------------------------------
+
+Title:
+    Scary High-pitched Ghost
+
+Author:
+    Fupi
+
+URL:
+    https://opengameart.org/content/scary-high-pitched-ghost
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * scaryhighpitchedghost.ogg
+    * scaryhighpitchedghost.wav
+
+----------------------------------------
+
+Title:
+    8bit Death Whirl
+
+Author:
+    Fupi
+
+URL:
+    https://opengameart.org/content/8bit-death-whirl
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * vgdeathsound.ogg
+    * vgdeathsound.wav
+
+----------------------------------------
+
+Title:
+    8bit Menu Select
+
+Author:
+    Fupi
+
+URL:
+    https://opengameart.org/content/8bit-menu-select
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * vgmenuselect.ogg
+    * vgmenuselect.wav
+
+----------------------------------------
+
+Title:
+    8bit Menu Highlight
+
+Author:
+    Fupi
+
+URL:
+    https://opengameart.org/content/8bit-menu-highlight
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * vgmenuhighlight.ogg
+    * vgmenuhighlight.wav
+
+----------------------------------------
+
+
